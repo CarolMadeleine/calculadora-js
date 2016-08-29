@@ -1,7 +1,7 @@
-##Ejercicio 5:
+##Ejercicio Calculadora:
 
-####Título: Positivo - Negativo
-####Contexto: Número ingresado es positivo o negativo
+####Título: Calculadora
+####Contexto: calculadora que ejecuta suma , resta, multiplicacion, division, mayor que, menor que, resto-modulo.
 
 
 ###Pseudocódigo:
